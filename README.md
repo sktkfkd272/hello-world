@@ -1,2 +1,5 @@
 # hello-world
-tutorial repository
+
+Hi, this is Rose 
+
+I'm into developer. 
